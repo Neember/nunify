@@ -22,4 +22,6 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~> 4.1"
   s.add_dependency "sass-rails", "~> 4.0"
   s.add_dependency "font-awesome-rails", "~> 4.2"
+
+  s.add_development_dependency "sqlite3"
 end
