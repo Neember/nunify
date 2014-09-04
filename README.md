@@ -1,5 +1,4 @@
-# Nunify
-=================================
+# Nunify - Unify template for Neember
 
 ###Installation
 
@@ -10,7 +9,7 @@ gem install 'nunify'
 or add this to your `Gemfile`
 
 ```
-gem 'unify', '~> 0.0.2'
+gem 'unify', '~> 1.0'
 ```
 
 ###Usage
@@ -32,6 +31,12 @@ Nunify uses `default` theme by default. To use another theme, add this to your `
 ```scss
 @import 'nunify';
 @import 'nunify/themes/[your_theme_name]'
+```
+
+As Rails won't automatically include filtered out assets, you may need to add this to your application.rb
+
+```ruby
+config.assets.precompile += %w{*.png *.jpg *.gif}
 ```
 
 That's it. Enjoy!!!
