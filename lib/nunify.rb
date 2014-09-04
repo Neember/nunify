@@ -1,2 +1,2 @@
-module Nunify
-end
+require 'nunify/engine'
+
