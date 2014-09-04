@@ -1,6 +1,7 @@
 # Nunify - Unify template for Neember
 
 [![Gem Version](https://badge.fury.io/rb/nunify.svg)](http://badge.fury.io/rb/nunify)
+[![Dependency Status](https://gemnasium.com/Neember/nunify.svg)](https://gemnasium.com/Neember/nunify)
 
 ###Installation
 
