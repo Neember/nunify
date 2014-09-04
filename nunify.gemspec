@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.name        = "nunify"
   s.version     = Nunify::VERSION
   s.authors     = ["huynhquancam"]
-  s.email       = ["jack@futureworkz.com"]
+  s.email       = ["huynhquancam@gmail.com"]
   s.homepage    = "http://neember.com"
   s.summary     = "Unify Template for Neember"
   s.description = "Neember Unify Template"
