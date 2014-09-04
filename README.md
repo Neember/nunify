@@ -1,5 +1,7 @@
 # Nunify - Unify template for Neember
 
+[![Gem Version](https://badge.fury.io/rb/nunify.svg)](http://badge.fury.io/rb/nunify)
+
 ###Installation
 
 ```
