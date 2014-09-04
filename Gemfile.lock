@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nunify (0.5.3)
+    nunify (0.5.4)
       font-awesome-rails (~> 4.2)
       rails (~> 4.1)
       sass-rails (~> 4.0)
